@@ -4,7 +4,7 @@ const template = () => {
     return `
     <div>
         <img src="/images/logo.svg" alt="Phototype logo" />
-        <h1>Phototype</h1>
+        <h1>Picture-Type</h1>
     </div>
     <ul>
         <li>
